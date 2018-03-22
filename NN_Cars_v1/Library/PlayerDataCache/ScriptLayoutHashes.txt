@@ -2,6 +2,7 @@ WindowsStandalone
 SceneListBegin?
 Assets/Scenes/Scene_1.unity
 Assets/Scenes/Scene_2.unity
+Assets/Scenes/Scene_3.unity
 SceneListEnd?
 ee4159b0a889f41f524b3fc0b7be4e05 Assembly-CSharp.dll:.CarControl
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
